@@ -1,0 +1,4 @@
+langroid>=0.1.29
+matplotlib
+pandas
+networkx

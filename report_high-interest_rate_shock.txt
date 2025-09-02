@@ -1,0 +1,30 @@
+Simulation Report
+=================
+
+Number of households: 4
+Initial number of firms: 10
+Final number of firms: 0
+Final interest rate: 0.03
+
+Final unemployment rate: 100.00%
+Total household savings: -863,451.10
+=======
+Final interest rate: 0.1
+
+Firm Stats
+----------
+Total bankruptcies: 10
+Total new firms created: 0
+No firms remaining.
+
+Financial Market Stats
+----------------------
+No stocks in the market.
+
+Housing Market Stats
+--------------------
+Homeownership rate: 0.00%
+
+Average house price: 15,622.00
+Average rent (for available houses): 781.10
+=======
